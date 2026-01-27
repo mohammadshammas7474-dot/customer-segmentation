@@ -1,0 +1,6 @@
+CustomerID,Age,TotalPurchases,TotalSpent,ProductCategory
+1,25,15,12000,Electronics
+2,32,5,3000,Grocery
+3,45,20,25000,Electronics
+4,23,2,1500,Fashion
+5,35,12,10000,Grocery
